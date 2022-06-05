@@ -1,6 +1,4 @@
 ######################## default configuration ####################
-publishDir = "docs"
-canonifyURLs = true
 baseURL = "https://yurachud.github.com/mypage"
 title = "Airspace | Creative Agency Hugo Template"
 theme = "airspace"
