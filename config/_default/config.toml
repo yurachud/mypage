@@ -1,4 +1,5 @@
 ######################## default configuration ####################
+publishDir = "docs"
 baseURL = "https://yurachud.github.com/mypage"
 title = "Airspace | Creative Agency Hugo Template"
 theme = "airspace"
